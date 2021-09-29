@@ -69,10 +69,13 @@ body {
 
 .adicionais {
   margin-top: 32px;
-  margin-left: 200px;
+  //margin-left: 200px;
+}
+
+.adicionais-titulo {
   color: #1c1c1c;
   text-decoration: none;
-  align-items: center;
+  position: center;
 }
 
 //.projetos-titulo {
